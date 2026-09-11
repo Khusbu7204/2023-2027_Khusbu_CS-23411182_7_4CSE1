@@ -6,7 +6,7 @@ This repository contains my internship report and related submission materials f
 
 - `Internship Report - Khusbu Kumari.pdf` — Internship report for academic submission.
 - `Internship PPT - Python-Full-Stack-Development_PPT` — Internship presentation.
-- `Internship Certificate - Khusbu Kumari.pdf` — Official internship completion certificate.
+- `Internship Certificate -Python Fullstack Developer Virtual Internship.pdf` — Official internship completion certificate.
 - `README.md` — Repository information and internship overview.
 
 ## Internship
